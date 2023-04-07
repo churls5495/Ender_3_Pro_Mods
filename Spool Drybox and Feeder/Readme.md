@@ -1,6 +1,6 @@
 # Spool Drybox and feeder 
 
-Remix of [Universal Filament Spool Holder by Butchja](https://www.thingiverse.com/thing:2070272) for <200mm OD, 48-58mm ID, <70mm wide spools meant to fit into a common cereal box.
+Remix of [Universal Filament Spool Holder by Butchja](https://www.thingiverse.com/thing:2070272) for <218mm OD, 48-58mm ID, <70mm wide spools meant to fit into a common cereal box.
 
 ![Image of spool holder](./Images/ISO.png)
 ![Image of spool holder](./Images/front.png)
